@@ -1,3 +1,7 @@
+v3.5.3
+==================
+* Use forked px-datetime-range-panel and upgrade to v2.3.2
+
 v3.5.2
 ==================
 * Added ability to hoist timezone dropdown

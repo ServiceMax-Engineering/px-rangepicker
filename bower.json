@@ -1,6 +1,6 @@
 {
   "name": "px-rangepicker",
-  "version": "3.5.2",
+  "version": "3.5.3",
   "main": [
     "px-rangepicker.html"
   ],
@@ -29,7 +29,7 @@
     "polymer": "#1.9 - 2",
     "px-datetime-common": "^3.0.0",
     "px-datetime-range-field": "^2.0.0",
-    "px-datetime-range-panel": "^2.3.0",
+    "px-datetime-range-panel": "git+https://github.com/ServiceMax-Engineering/px-datetime-range-panel.git#2.3.2",
     "iron-dropdown": "^2.0.0",
     "px-overlay": "^2.0.0"
   },
